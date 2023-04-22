@@ -1,0 +1,39 @@
+Device0:"GeForce RTX 2080 Ti"
+CUDA Driver Version:                            11.2
+CUDA Runtime Version:                           11.1
+Device Prop:                                    7.0
+Total amount of Global Memory:                  2964783104 bytes
+Number of SMs:                                  68
+Total amount of Constant Memory:                65536 bytes
+Total amount of Shared Memory per block:        49152 bytes
+Total number of registers available per block:  65536
+Warp size:                                      32
+Maximum number of threads per SM:               1024
+Maximum number of threads per block:            1024
+Maximum size of each dimension of a block:      1024 x 1024 x 64
+Maximum size of each dimension of a grid:       2147483647 x 65535 x 65535
+Maximum memory pitch:                           2147483647 bytes
+Texture alignmemt:                              32 bytes
+Clock rate:                                     1.54 GHz
+Memory Clock rate:                              7000 MHz
+Memory Bus Width:                               352-bit
+
+Device1:"GeForce RTX 2080 Ti"
+CUDA Driver Version:                            11.2
+CUDA Runtime Version:                           11.1
+Device Prop:                                    7.5
+Total amount of Global Memory:                  2964783104 bytes
+Number of SMs:                                  68
+Total amount of Constant Memory:                65536 bytes
+Total amount of Shared Memory per block:        49152 bytes
+Total number of registers available per block:  65536
+Warp size:                                      32
+Maximum number of threads per SM:               1024
+Maximum number of threads per block:            1024
+Maximum size of each dimension of a block:      1024 x 1024 x 64
+Maximum size of each dimension of a grid:       2147483647 x 65535 x 65535
+Maximum memory pitch:                           2147483647 bytes
+Texture alignmemt:                              32 bytes
+Clock rate:                                     1.54 GHz
+Memory Clock rate:                              7000 MHz
+Memory Bus Width:                               352-bit
