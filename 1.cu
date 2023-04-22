@@ -59,6 +59,6 @@ int main()
     printf("Memory Bus Width:                               %d-bit\n",
            deviceProp.memoryBusWidth);
   }
-
+       std::cout<<"hello"<<std::endl;
   system("pause");
 }
